@@ -1,5 +1,6 @@
-d 'DEA': Data envelopment analysis
+d 'rwolf2': A more flexible syntax to calculate Romano-Wolf stepdown p-values for multiple hypothesis testing Use rwolf2 With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f rwolf.ado
+f rwolf.sthlp
+f rwolf2.ado
+f rwolf2.sthlp
