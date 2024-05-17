@@ -2,4 +2,4 @@
 1
 2
 3
-p dea Data envelopment analysis
+p rwolf2 A more flexible syntax to calculate Romano-Wolf stepdown p-values for multiple hypothesis testing Use rwolf2 With STATA 18
