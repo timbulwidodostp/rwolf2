@@ -1,5 +1,5 @@
 # rwolf2
-A more flexible syntax to calculate Romano-Wolf stepdown p-values for multiple hypothesis testing Use rwolf With STATA 18
+A more flexible syntax to calculate Romano-Wolf stepdown p-values for multiple hypothesis testing Use rwolf2 With STATA 18
 
 Romano Wolf stepdown hypothesis testing algorithm Use rwolf2 for STATA 18
 
